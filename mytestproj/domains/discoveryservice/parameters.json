@@ -1,0 +1,122 @@
+{
+ "MapsServiceUrl": {
+  "conf": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "fixedValue": {
+   "local": "http://sitemap.map.co.il/DSWebService2020/DSWebService2020.asmx",
+   "prod": "http://sitemap.map.co.il/DSWebService2020/DSWebService2020.asmx",
+   "qa": "http://sitemap.map.co.il/DSWebService2020/DSWebService2020.asmx",
+   "stage": "http://sitemap.map.co.il/DSWebService2020/DSWebService2020.asmx"
+  },
+  "type": "fixedValue"
+ },
+ "assetRoots": {
+  "conf": {
+   "local": "[{\"urlPath\": \"/services\", \"folderPath\": \"./static/services\", \"allowOnProd\": false}]",
+   "prod": "[{\"urlPath\": \"/services\", \"folderPath\": \"./static/services\", \"allowOnProd\": false}]",
+   "qa": "[{\"urlPath\": \"/services\", \"folderPath\": \"./static/services\", \"allowOnProd\": false}]",
+   "stage": "[{\"urlPath\": \"/services\", \"folderPath\": \"./static/services\", \"allowOnProd\": false}]"
+  },
+  "fixedValue": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "type": "conf"
+ },
+ "checkAllServicesSeconds": {
+  "conf": {
+   "local": "5",
+   "prod": "5",
+   "qa": "5",
+   "stage": "5"
+  },
+  "fixedValue": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "type": "conf"
+ },
+ "debugMode": {
+  "conf": {
+   "local": "true",
+   "prod": "false",
+   "qa": "true",
+   "stage": "true"
+  },
+  "fixedValue": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "type": "conf"
+ },
+ "discoveryServiceProvider": {
+  "conf": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "fixedValue": {
+   "local": "none",
+   "prod": "none",
+   "qa": "none",
+   "stage": "none"
+  },
+  "type": "fixedValue"
+ },
+ "inforu-mailURL": {
+  "conf": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "fixedValue": {
+   "local": "https://capi.inforu.co.il",
+   "prod": "https://capi.inforu.co.il",
+   "qa": "https://capi.inforu.co.il",
+   "stage": "https://capi.inforu.co.il"
+  },
+  "type": "fixedValue"
+ },
+ "inforuURL": {
+  "conf": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "fixedValue": {
+   "local": "https://api.inforu.co.il",
+   "prod": "https://api.inforu.co.il",
+   "qa": "https://api.inforu.co.il",
+   "stage": "https://api.inforu.co.il"
+  },
+  "type": "fixedValue"
+ },
+ "port": {
+  "conf": {
+   "local": null,
+   "prod": null,
+   "qa": null,
+   "stage": null
+  },
+  "fixedValue": {
+   "local": "8500",
+   "prod": "8500",
+   "qa": "8500",
+   "stage": "8500"
+  },
+  "type": "fixedValue"
+ }
+}

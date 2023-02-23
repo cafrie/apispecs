@@ -1,0 +1,12 @@
+{
+ "fields": [
+  {
+   "name": "lala",
+   "type": "string"
+  }
+ ],
+ "permutations": {},
+ "cacheMethods": null,
+ "pluralType": "",
+ "sqlActions": null
+}

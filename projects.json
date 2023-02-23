@@ -1,0 +1,35 @@
+{
+ "version": "1.23.0",
+ "projects": [
+  {
+   "id": "mytestproj",
+   "title": "my test proj",
+   "type": "freeStyle",
+   "permitCi": false,
+   "permitCd": [
+    {
+     "label": "My Local",
+     "value": "local",
+     "permit": false
+    },
+    {
+     "label": "QA",
+     "value": "qa",
+     "permit": true
+    },
+    {
+     "label": "Stage",
+     "value": "stage",
+     "permit": false
+    },
+    {
+     "label": "Production",
+     "value": "prod",
+     "permit": false
+    }
+   ],
+   "startPort": 8000
+  }
+ ],
+ "hash": "4d18ba0a-7367-4162-8ccd-5ec01d03601b"
+}

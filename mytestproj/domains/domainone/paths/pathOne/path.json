@@ -1,0 +1,20 @@
+{
+ "id": "pathOne",
+ "description": "",
+ "type": "internal",
+ "requestFields": [
+  {
+   "name": "fOne",
+   "type": "string",
+   "isRequired": true,
+   "validations": {}
+  }
+ ],
+ "responseFields": {
+  "type": "ref",
+  "subType": "Foo"
+ },
+ "testCasesFields": [],
+ "summary": "",
+ "tickets": ""
+}
